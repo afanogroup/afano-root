@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#A4173B' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#A4173B' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#A4173B' transform='scale(1.45)'>
+    <line x1='0' y1='-22' x2='0' y2='22' stroke='currentColor' stroke-width='3'/><path d='M-12,-14 C0,-6 0,6 -12,14' fill='none' stroke='currentColor' stroke-width='3'/><path d='M12,-14 C0,-6 0,6 12,14' fill='none' stroke='currentColor' stroke-width='3'/><circle cx='0' cy='-22' r='4' fill='currentColor'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#A4173B'>
+    HEALTHCARE &amp; LIFE SCIENCES
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 06 · AFANO GROUP
+  </text>
+</svg>

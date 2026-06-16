@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#1F4F8C' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#1F4F8C' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#1F4F8C' transform='scale(1.45)'>
+    <path d='M-22,4 L22,4 L18,16 L-18,16 Z' fill='currentColor'/><rect x='-2' y='-22' width='4' height='26' fill='currentColor'/><path d='M2,-22 L18,-2 L2,-2 Z' fill='currentColor'/><path d='M-2,-16 L-14,-2 L-2,-2 Z' fill='currentColor'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#1F4F8C'>
+    TRADE, COMMERCE &amp; CONSUMER SERVICES
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 10 · AFANO GROUP
+  </text>
+</svg>

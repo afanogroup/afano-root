@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#7A3D1C' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#7A3D1C' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#7A3D1C' transform='scale(1.45)'>
+    <rect x='-18' y='-22' width='36' height='6' fill='currentColor'/><rect x='-18' y='16' width='36' height='6' fill='currentColor'/><rect x='-14' y='-14' width='6' height='28' fill='currentColor'/><rect x='-3' y='-14' width='6' height='28' fill='currentColor'/><rect x='8' y='-14' width='6' height='28' fill='currentColor'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#7A3D1C'>
+    INFRASTRUCTURE, REAL ESTATE &amp; DEVELOPMENT
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 04 · AFANO GROUP
+  </text>
+</svg>

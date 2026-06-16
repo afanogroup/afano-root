@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#1F6E3E' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#1F6E3E' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#1F6E3E' transform='scale(1.45)'>
+    <path d='M0,-22 C10,-10 18,-2 18,8 C18,20 9,26 0,26 C-9,26 -18,20 -18,8 C-18,-2 -10,-10 0,-22 Z' fill='currentColor'/><path d='M0,-8 C5,-2 9,4 9,10 C9,17 4,22 0,22 C-4,22 -9,17 -9,10 C-9,4 -5,-2 0,-8 Z' fill='#F5F0E3' opacity='0.85'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#1F6E3E'>
+    ENERGY & NATURAL RESOURCES
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 02 · AFANO GROUP
+  </text>
+</svg>

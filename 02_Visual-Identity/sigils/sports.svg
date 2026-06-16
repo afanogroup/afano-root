@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#C45A18' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#C45A18' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#C45A18' transform='scale(1.45)'>
+    <polygon points='0,-22 6,-7 22,-7 9,3 14,18 0,9 -14,18 -9,3 -22,-7 -6,-7' fill='currentColor'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#C45A18'>
+    SPORTS, RECREATION &amp; YOUTH DEVELOPMENT
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 15 · AFANO GROUP
+  </text>
+</svg>

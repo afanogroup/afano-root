@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-100 -100 200 240'>
+  <g stroke='#B23A4A' stroke-width='2.5' fill='none' opacity='0.4'>
+    <polygon points='0,-78 68,-39 68,39 0,78 -68,39 -68,-39'/>
+  </g>
+  <g stroke='#B23A4A' stroke-width='3' fill='none'>
+    <polygon points='0,-62 54,-31 54,31 0,62 -54,31 -54,-31'/>
+  </g>
+  <g color='#B23A4A' transform='scale(1.45)'>
+    <path d='M-22,-8 C-14,-16 -6,0 2,-8 C10,-16 18,0 22,-8' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round'/><path d='M-22,4 C-14,-4 -6,12 2,4 C10,-4 18,12 22,4' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round'/><path d='M-22,16 C-14,8 -6,24 2,16 C10,8 18,24 22,16' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round'/>
+  </g>
+  <text x='0' y='112' text-anchor='middle'
+        font-family='Inter, Helvetica, Arial, sans-serif'
+        font-weight='600' font-size='14' letter-spacing='4' fill='#B23A4A'>
+    MEDIA, COMMUNICATIONS &amp; ENTERTAINMENT
+  </text>
+  <text x='0' y='130' text-anchor='middle'
+        font-family='Georgia, serif' font-style='italic' font-size='10'
+        fill='#0A0F1A' opacity='0.6'>
+    SBG 09 · AFANO GROUP
+  </text>
+</svg>

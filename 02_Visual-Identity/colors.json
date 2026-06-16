@@ -1,0 +1,89 @@
+{
+  "afano": {
+    "navy": "#0B1F3A",
+    "navyDeep": "#061327",
+    "gold": "#C8A04A",
+    "goldDeep": "#A37A2A",
+    "ivory": "#F5F0E3",
+    "ink": "#0A0F1A",
+    "mist": "#D9DEE6",
+    "white": "#FFFFFF"
+  },
+  "divisions": {
+    "capital": {
+      "name": "AFANO Financial Services Group",
+      "primary": "#0E3A5F",
+      "glyph": "coin"
+    },
+    "energy": {
+      "name": "AFANO Energy & Natural Resources Group",
+      "primary": "#1F6E3E",
+      "glyph": "flame"
+    },
+    "tech": {
+      "name": "AFANO Technology & Digital Innovation Group",
+      "primary": "#3B2E8C",
+      "glyph": "node"
+    },
+    "infra": {
+      "name": "AFANO Infrastructure, Real Estate & Development Group",
+      "primary": "#7A3D1C",
+      "glyph": "pillar"
+    },
+    "agri": {
+      "name": "AFANO Agriculture & Agribusiness Group",
+      "primary": "#4F7A1F",
+      "glyph": "leaf"
+    },
+    "health": {
+      "name": "AFANO Healthcare & Life Sciences Group",
+      "primary": "#A4173B",
+      "glyph": "caduceus"
+    },
+    "travel": {
+      "name": "AFANO Tourism, Hospitality & Mobility Group",
+      "primary": "#0F6E7A",
+      "glyph": "compass"
+    },
+    "education": {
+      "name": "AFANO Education, Training & Workforce Development Group",
+      "primary": "#5B4E96",
+      "glyph": "torch"
+    },
+    "media": {
+      "name": "AFANO Media, Communications & Entertainment Group",
+      "primary": "#B23A4A",
+      "glyph": "wave"
+    },
+    "trade": {
+      "name": "AFANO Trade, Commerce & Consumer Services Group",
+      "primary": "#1F4F8C",
+      "glyph": "ship"
+    },
+    "shield": {
+      "name": "AFANO Government, Defense & National Security Group",
+      "primary": "#1C2E3E",
+      "glyph": "shield"
+    },
+    "industry": {
+      "name": "AFANO Industrial Manufacturing & Supply Chain Group",
+      "primary": "#5F4B1E",
+      "glyph": "gear"
+    },
+    "business": {
+      "name": "AFANO Professional & Business Services Group",
+      "primary": "#2E4A3A",
+      "glyph": "bridge"
+    },
+    "impact": {
+      "name": "AFANO Social Impact & International Development Group",
+      "primary": "#1B6E5E",
+      "glyph": "hands"
+    },
+    "sports": {
+      "name": "AFANO Sports, Recreation & Youth Development Group",
+      "primary": "#C45A18",
+      "glyph": "star"
+    }
+  }
+}
