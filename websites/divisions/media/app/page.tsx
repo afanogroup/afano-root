@@ -27,45 +27,51 @@ export default function Home() {
         <h2 className="font-display text-3xl text-afano-navy mt-3">Business Units</h2>
         <div className="mt-10 grid md:grid-cols-2 gap-6">
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Broadcasting</h3>
+          <h3 className="font-display text-xl text-afano-navy">Broadcasting & Streaming</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Television Networks</li>
-            <li>· Radio Networks</li>
-            <li>· Streaming Networks</li>
+            <li>· Television Networks: Free-to-Air, Cable, Satellite</li>
+            <li>· Radio Networks: FM, Digital, Online</li>
+            <li>· Streaming & OTT Platforms</li>
+            <li>· News & Current Affairs Production</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Digital Media</h3>
+          <h3 className="font-display text-xl text-afano-navy">Digital Media & Creator Economy</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Content Creation</li>
-            <li>· Social Media Management</li>
-            <li>· Podcast Production</li>
+            <li>· Content Creation: Long-Form, Short-Form, Documentary</li>
+            <li>· Social Media Management & Community Building</li>
+            <li>· Podcast Production & Audio Content Networks</li>
             <li>· Digital Marketing: SEO, SEM, Social, Content, Email, Marketing Automation</li>
+            <li>· Creator Economy & Influencer Marketing Platforms</li>
+            <li>· Programmatic Advertising & Ad-Tech</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Creative Services</h3>
+          <h3 className="font-display text-xl text-afano-navy">Creative Services & PR</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Advertising</li>
-            <li>· Public Relations</li>
-            <li>· Branding & Identity</li>
+            <li>· Advertising: Campaign Development, Media Buying, OOH</li>
+            <li>· Public Relations & Crisis Communications</li>
+            <li>· Branding & Identity: Brand Strategy, Visual Identity, Naming</li>
+            <li>· Content Localisation & Multilingual Production</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Entertainment</h3>
+          <h3 className="font-display text-xl text-afano-navy">Entertainment & Events</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Film Production</li>
-            <li>· Music Production</li>
-            <li>· Event Production</li>
-            <li>· Sports Entertainment & Live Events (NEW)</li>
+            <li>· Film & Series Production: Feature Films, TV Series, Documentaries</li>
+            <li>· Music Production: Recording, Distribution, Artist Management</li>
+            <li>· Live Event Production: Concerts, Award Shows, Cultural Festivals</li>
+            <li>· Gaming & Interactive Media: Game Development, Gaming Tournaments</li>
+            <li>· Sports Entertainment & Live Events Management</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Publishing (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Publishing</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Book Publishing</li>
+            <li>· Book Publishing: Fiction, Non-Fiction, Educational</li>
             <li>· Magazines & Journals</li>
-            <li>· Digital Publications</li>
+            <li>· Digital Publications & E-Books</li>
+            <li>· Academic & Technical Publishing</li>
           </ul>
         </div>
         </div>

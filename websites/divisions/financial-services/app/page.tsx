@@ -32,6 +32,8 @@ export default function Home() {
             <li>· Wealth Management: Financial Planning, Retirement Planning, Estate Planning, Family Office Services</li>
             <li>· Investment Management: Portfolio Management, Equity, Fixed Income, Alternatives</li>
             <li>· Asset Management: Institutional, Private, Fund Management, Investment Research</li>
+            <li>· Digital Wealth & Robo-Advisory: Algorithm-driven portfolio construction, Goal-based savings</li>
+            <li>· Crypto Asset Custody & Digital Asset Trading Desk</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
@@ -40,31 +42,37 @@ export default function Home() {
             <li>· Project Finance: Infrastructure, Energy, Public-Private Partnership</li>
             <li>· Development Finance: SME Financing, Development Programs, Economic Growth Initiatives</li>
             <li>· Capital Advisory: Capital Raising, M&A Advisory, Business Valuation</li>
+            <li>· Structured Finance: Securitisation, CLOs, Asset-Backed Securities</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Financial Services & FinTech</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Credit Services: Credit Repair, Credit Monitoring, Debt Management</li>
-            <li>· FinTech Solutions: Digital Payments, Mobile Banking, Financial Technology Platforms</li>
+            <li>· FinTech Solutions: Digital Payments, Mobile Banking, Super-App Platforms</li>
+            <li>· Open Banking & API Financial Services</li>
+            <li>· RegTech: Compliance Automation, AML/KYC Technology</li>
             <li>· Live site: https://srv1736078.hstgr.cloud/</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Banking & Lending (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Banking & Lending</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Commercial Banking: Corporate Banking, Trade Finance, Cash Management</li>
-            <li>· Consumer Banking & Microfinance</li>
+            <li>· Consumer Banking, MSME Lending & Microfinance</li>
             <li>· Islamic Finance & Shariah-Compliant Products</li>
+            <li>· Digital-Only Banking (Neobank) Operations</li>
+            <li>· Mortgage & Real Estate Finance</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Insurance & Reinsurance (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Insurance & Reinsurance</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Life & Health Insurance</li>
             <li>· Property & Casualty Insurance</li>
-            <li>· Reinsurance & Captive Insurance Solutions</li>
-            <li>· Bancassurance partnerships</li>
+            <li>· Reinsurance, Captive Insurance & Alternative Risk Transfer</li>
+            <li>· Bancassurance Partnerships</li>
+            <li>· InsurTech: Usage-based & Parametric Insurance Platforms</li>
           </ul>
         </div>
         </div>

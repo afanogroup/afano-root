@@ -29,41 +29,48 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Healthcare Services</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Clinical Services: Primary Care, Specialty Care</li>
-            <li>· Telehealth: Virtual Consultations, Remote Monitoring</li>
-            <li>· Hospital & Clinic Operations (NEW)</li>
+            <li>· Clinical Services: Primary Care, Specialty Care, Chronic Disease Management</li>
+            <li>· Telehealth: Virtual Consultations, Remote Patient Monitoring</li>
+            <li>· Hospital & Clinic Operations: Greenfield Hospitals, Specialist Clinics</li>
+            <li>· Mental Health & Wellness: Counselling, Psychiatric Services, Corporate Wellness</li>
+            <li>· Maternal, Neonatal & Child Health Programs</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Pharmaceuticals</h3>
+          <h3 className="font-display text-xl text-afano-navy">Pharmaceuticals & Medical Supplies</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Pharmacy Operations: Retail, Wholesale</li>
-            <li>· Medical Supplies: Equipment Distribution, Consumables</li>
-            <li>· Chemical & Laboratory Distribution: Lab Chemicals, Medical Chemicals, Research Chemicals, Pharmaceutical Inputs</li>
+            <li>· Pharmacy Operations: Retail Pharmacy Chains, Hospital Pharmacy</li>
+            <li>· Pharmaceutical Manufacturing: Generic Drugs, OTC Products</li>
+            <li>· Medical Supplies: Equipment Distribution, Consumables, PPE</li>
+            <li>· Chemical & Laboratory Distribution: Lab Chemicals, Pharmaceutical Inputs</li>
+            <li>· Cold Chain Pharmaceutical Logistics</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Life Sciences</h3>
+          <h3 className="font-display text-xl text-afano-navy">Life Sciences & Biotechnology</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Laboratory Services: Diagnostics, Clinical Testing</li>
-            <li>· Biotechnology: Research, Innovation Programs</li>
-            <li>· Contract Research Organisation (NEW)</li>
+            <li>· Laboratory Services: Diagnostics, Clinical Testing, Pathology</li>
+            <li>· Biotechnology: Drug Discovery, Biologics, Gene Therapy Research</li>
+            <li>· Contract Research Organisation (CRO): Clinical Trials, Regulatory Affairs</li>
+            <li>· Genomics & Personalized Medicine: Genetic Testing, Precision Oncology</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Health Technology</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Electronic Medical Records: EMR, Hospital Information Systems</li>
-            <li>· Telemedicine Platforms</li>
-            <li>· Health Analytics</li>
+            <li>· Electronic Medical Records: EMR/EHR, Hospital Information Systems</li>
+            <li>· Telemedicine Platforms & Digital Health Apps</li>
+            <li>· Health Analytics: Population Health, Predictive Risk Stratification</li>
+            <li>· AI-Powered Diagnostics & Radiology AI</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Medical Devices & Diagnostics (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Medical Devices & Diagnostics</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Imaging Equipment</li>
-            <li>· Diagnostic Devices</li>
+            <li>· Imaging Equipment: MRI, CT, Ultrasound</li>
+            <li>· Diagnostic Devices: Point-of-Care Testing, In-Vitro Diagnostics</li>
             <li>· Wearables & Remote Patient Monitoring Hardware</li>
+            <li>· Surgical Robotics & Minimally Invasive Tools</li>
           </ul>
         </div>
         </div>

@@ -29,41 +29,39 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">International Trade</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Import Services</li>
-            <li>· Export Services</li>
-            <li>· Trade Facilitation</li>
+            <li>· Import & Export Services</li>
+            <li>· Trade Finance: Letters of Credit, Documentary Collections</li>
+            <li>· Customs Brokerage & Trade Facilitation</li>
+            <li>· Free Zone & Special Economic Zone Operations</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Distribution</h3>
+          <h3 className="font-display text-xl text-afano-navy">E-Commerce & Digital Retail</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Wholesale Distribution</li>
-            <li>· Supply Chain Distribution</li>
+            <li>· Online Marketplace Platforms</li>
+            <li>· Cross-Border E-Commerce & Dropshipping</li>
+            <li>· Digital Commerce Infrastructure: Payments, Logistics Integration</li>
+            <li>· Direct-to-Consumer (DTC) Brand Platforms</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">E-Commerce</h3>
+          <h3 className="font-display text-xl text-afano-navy">Retail & Consumer</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Online Marketplace</li>
-            <li>· Digital Commerce Platforms</li>
-            <li>· Cross-Border E-Commerce (NEW)</li>
+            <li>· Consumer Retail: FMCG, Electronics, Lifestyle</li>
+            <li>· Franchise Operations & Brand Licensing</li>
+            <li>· Luxury Goods & Premium Retail</li>
+            <li>· Department Stores, Shopping Malls & Specialty Retail</li>
+            <li>· Afrofashion & Cultural Lifestyle Retail</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Retail</h3>
+          <h3 className="font-display text-xl text-afano-navy">Procurement, Distribution & Sourcing</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Consumer Retail</li>
-            <li>· Franchise Operations</li>
-            <li>· Department Stores & Specialty Retail (NEW)</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Procurement & Sourcing</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Strategic Sourcing</li>
-            <li>· Vendor Management</li>
-            <li>· Contract Management</li>
-            <li>· Global Procurement</li>
+            <li>· Strategic Sourcing & Vendor Management</li>
+            <li>· Contract & Framework Agreement Management</li>
+            <li>· Wholesale Distribution & Supply Chain Distribution</li>
+            <li>· Global Procurement & Group Buying Services</li>
+            <li>· Reverse Logistics & Returns Management</li>
           </ul>
         </div>
         </div>

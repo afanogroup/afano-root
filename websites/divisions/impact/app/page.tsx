@@ -29,39 +29,37 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">International Development</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Economic Development</li>
-            <li>· Institutional Strengthening</li>
-            <li>· Donor-Funded Programs: USAID, UN, World Bank, African Development Bank, Capacity Building</li>
+            <li>· Economic Development: Private Sector Development, Value Chain Strengthening</li>
+            <li>· Institutional Strengthening: Capacity Building, Governance Reform</li>
+            <li>· Donor-Funded Programs: USAID, UN, World Bank, African Development Bank</li>
+            <li>· Climate Adaptation & Resilience Programs</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Community Development</h3>
+          <h3 className="font-display text-xl text-afano-navy">Community, Foundation & Grants</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Youth Programs</li>
-            <li>· Women Empowerment</li>
+            <li>· Youth Programs: Mentorship, Leadership, Skills Development</li>
+            <li>· Women Empowerment: Economic Inclusion, STEM for Girls</li>
+            <li>· Scholarships, Grants & Charitable Giving</li>
+            <li>· Community Infrastructure: Schools, Clinics, Water Points</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Foundation Programs</h3>
+          <h3 className="font-display text-xl text-afano-navy">Research, Policy & Evaluation</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Scholarships</li>
-            <li>· Grants</li>
-            <li>· Charitable Giving</li>
+            <li>· Policy Research & Advocacy</li>
+            <li>· Monitoring & Evaluation (M&E): Impact Measurement, Logframes</li>
+            <li>· Development Data & GIS Mapping</li>
+            <li>· Think Tank & Knowledge Publications</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Research & Policy</h3>
+          <h3 className="font-display text-xl text-afano-navy">Humanitarian & Disaster Response</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Policy Research</li>
-            <li>· Monitoring & Evaluation</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Humanitarian & Disaster Response (NEW)</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Emergency Relief</li>
+            <li>· Emergency Relief: Food, Water, Shelter, Non-Food Items</li>
             <li>· Refugee & Displacement Support</li>
-            <li>· Resilience Programs</li>
+            <li>· Resilience Programs: Livelihood Recovery, DRR</li>
+            <li>· Health Emergency Response</li>
           </ul>
         </div>
         </div>

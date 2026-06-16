@@ -29,33 +29,39 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Manufacturing</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Construction Materials: Cement, Steel Reinforcement, Iron Rods, Building Products</li>
-            <li>· Consumer Goods Manufacturing</li>
-            <li>· Industrial Equipment Manufacturing (NEW)</li>
+            <li>· Construction Materials: Cement, Steel, Iron Rods, Roofing, Tiles</li>
+            <li>· Consumer Goods Manufacturing: Household, Personal Care</li>
+            <li>· Industrial Equipment Manufacturing: Pumps, Compressors, Generators</li>
+            <li>· 3D Printing & Additive Manufacturing</li>
+            <li>· Packaging Manufacturing: Flexible, Rigid, Sustainable</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Industrial Processing</h3>
+          <h3 className="font-display text-xl text-afano-navy">Industrial Processing & Chemicals</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Material Processing</li>
-            <li>· Fabrication</li>
-            <li>· Chemicals & Plastics (NEW)</li>
+            <li>· Material Processing: Steel Fabrication, Aluminium Rolling</li>
+            <li>· Specialty Chemicals & Plastics Manufacturing</li>
+            <li>· Fertiliser Production & Agrochemicals</li>
+            <li>· Robotics Integration & Smart Factory Automation</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Supply Chain</h3>
+          <h3 className="font-display text-xl text-afano-navy">Supply Chain & Logistics</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Logistics</li>
-            <li>· Warehousing</li>
-            <li>· Distribution</li>
+            <li>· Freight & Intermodal Logistics</li>
+            <li>· Warehousing: Distribution Centres, Bonded Stores</li>
+            <li>· Inventory Management & Demand Planning</li>
+            <li>· Fleet Management & Transport Operations</li>
+            <li>· 3PL & 4PL Logistics Services</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Textiles & Apparel (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Textiles & Apparel</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Ginning, Spinning, Weaving</li>
-            <li>· Garment Manufacturing</li>
-            <li>· Branded Apparel</li>
+            <li>· Cotton Ginning, Spinning & Weaving</li>
+            <li>· Garment Manufacturing & CMT (Cut, Make, Trim)</li>
+            <li>· Branded Apparel & Retail Fashion Labels</li>
+            <li>· Technical Textiles: Protective, Industrial, Medical</li>
           </ul>
         </div>
         </div>

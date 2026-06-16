@@ -18,7 +18,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-24">
           <div className="text-xs tracking-[0.4em] uppercase opacity-80">AFANO SBG 4</div>
           <h1 className="font-display text-5xl md:text-6xl mt-4 max-w-3xl leading-[1.05]">AFANO Infrastructure, Real Estate & Development Group</h1>
-          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Architecture, construction, real estate, facility services and logistics infrastructure.</p>
+          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Architecture, construction, real estate, facility services and smart infrastructure.</p>
         </div>
       </section>
 
@@ -27,35 +27,40 @@ export default function Home() {
         <h2 className="font-display text-3xl text-afano-navy mt-3">Business Units</h2>
         <div className="mt-10 grid md:grid-cols-2 gap-6">
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Architecture & Engineering</h3>
+          <h3 className="font-display text-xl text-afano-navy">Architecture, Engineering & Design</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Architecture: Building Design, Master Planning, Interior Design</li>
-            <li>· Engineering: Civil, Structural, MEP</li>
+            <li>· Architecture: Building Design, Master Planning, Interior Design, BIM</li>
+            <li>· Engineering: Civil, Structural, MEP, Environmental</li>
+            <li>· Urban Planning & Smart City Design</li>
+            <li>· Landscape Architecture & Green Infrastructure</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Construction</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Commercial Construction: Office Buildings, Industrial Facilities</li>
-            <li>· Residential Construction: Housing Developments, Luxury Residences</li>
-            <li>· Infrastructure Construction: Roads, Bridges, Utilities</li>
+            <li>· Commercial Construction: Office Buildings, Industrial Facilities, Data Centers</li>
+            <li>· Residential Construction: Housing Developments, Luxury Residences, Affordable Housing</li>
+            <li>· Infrastructure Construction: Roads, Bridges, Ports, Airports, Rail</li>
+            <li>· Construction Management & Quantity Surveying</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Real Estate</h3>
+          <h3 className="font-display text-xl text-afano-navy">Real Estate & Facility Management</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Brokerage: Buying, Selling</li>
-            <li>· Property Development: Commercial, Residential</li>
-            <li>· Property Management: Tenant, Facility</li>
-            <li>· Realty Services: Residential & Commercial Sales, Land Sales, Acquisition, Investment Advisory</li>
-            <li>· Facility Support: Janitorial, Cleaning, Landscaping, Building Maintenance</li>
+            <li>· Property Development: Commercial, Residential, Mixed-Use</li>
+            <li>· Brokerage: Buying, Selling, Leasing Advisory</li>
+            <li>· Property Management: Tenant Relations, Facility Management</li>
+            <li>· Facility Support: Janitorial, Landscaping, Building Maintenance, Energy Management</li>
+            <li>· PropTech: Digital Property Platforms, Virtual Tours, AI Valuation</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Logistics & Supply Chain</h3>
+          <h3 className="font-display text-xl text-afano-navy">Logistics Infrastructure</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Logistics: Transportation, Freight</li>
-            <li>· Warehousing: Distribution Centers, Inventory Management</li>
+            <li>· Warehousing: Distribution Centers, Bonded Warehouses, Cold Chain</li>
+            <li>· Port & Terminal Logistics Infrastructure</li>
+            <li>· Industrial Parks & Free Zone Development</li>
+            <li>· Last-Mile Delivery Network Infrastructure</li>
           </ul>
         </div>
         </div>

@@ -18,7 +18,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-24">
           <div className="text-xs tracking-[0.4em] uppercase opacity-80">AFANO SBG 7</div>
           <h1 className="font-display text-5xl md:text-6xl mt-4 max-w-3xl leading-[1.05]">AFANO Tourism, Hospitality & Mobility Group</h1>
-          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Tourism, hospitality, travel, mobility, automotive, aviation and maritime.</p>
+          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Tourism, hospitality, mobility, automotive, aviation and maritime.</p>
         </div>
       </section>
 
@@ -27,60 +27,55 @@ export default function Home() {
         <h2 className="font-display text-3xl text-afano-navy mt-3">Business Units</h2>
         <div className="mt-10 grid md:grid-cols-2 gap-6">
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Tourism</h3>
+          <h3 className="font-display text-xl text-afano-navy">Tourism & Travel Services</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Tourism Camps: Eco-Tourism, Adventure</li>
-            <li>· Destination Management: Planning, Marketing</li>
-            <li>· Tour Operations: Guided Tours, Cultural Tours</li>
-            <li>· Cultural Tourism: Heritage Programs, Cultural Events</li>
+            <li>· Tourism Camps: Eco-Tourism, Adventure, Safari</li>
+            <li>· Destination Management: Planning, Marketing, MICE (Meetings, Incentives, Conferences, Events)</li>
+            <li>· Tour Operations: Guided Tours, Cultural Tours, Heritage Programs</li>
+            <li>· Travel Agency: Flight, Hotel, Cruise Booking</li>
+            <li>· Corporate Travel Management & Executive Travel</li>
+            <li>· Medical Tourism Facilitation</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Hospitality</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Hotels & Resorts: Business, Luxury, Beach, Eco</li>
+            <li>· Hotels & Resorts: Business, Luxury, Beach, Eco, Budget</li>
+            <li>· Serviced Apartments & Extended-Stay Properties</li>
             <li>· Event & Conference Centers: Conventions, Corporate Events, Weddings, Exhibitions</li>
+            <li>· Food & Beverage Operations: Restaurants, Cafes, In-Hotel Dining</li>
+            <li>· Spa, Wellness & Recreation Facilities</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Travel Services</h3>
+          <h3 className="font-display text-xl text-afano-navy">Mobility & Automotive</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Travel Agency: Flight, Hotel Booking</li>
-            <li>· Corporate Travel: Business Travel Management, Executive Travel</li>
+            <li>· Vehicle Rentals: Daily Rentals, Fleet Leasing, Chauffeur Services</li>
+            <li>· Transportation: Shuttle, Corporate Transportation, Airport Transfers</li>
+            <li>· Ride-Hailing & Last-Mile Mobility Platforms</li>
+            <li>· Vehicle Sales: New and Pre-Owned</li>
+            <li>· Auto Repair: Maintenance, Diagnostics, Body Shop</li>
+            <li>· Auto Finance, Insurance & Warranty Products</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Mobility</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Vehicle Rentals: Daily Rentals, Fleet Leasing</li>
-            <li>· Transportation: Shuttle, Corporate Transportation</li>
-            <li>· Ride-Hailing & Last-Mile Mobility (NEW)</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Automotive</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Vehicle Sales: New, Used</li>
-            <li>· Auto Repair: Maintenance, Diagnostics</li>
-            <li>· Auto Finance & Insurance (NEW)</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Aviation (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Aviation</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Charter & Executive Aviation</li>
+            <li>· Scheduled Regional Air Services</li>
             <li>· MRO (Maintenance, Repair, Overhaul)</li>
             <li>· Ground Handling & Airport Services</li>
-            <li>· Cargo Aviation</li>
+            <li>· Cargo Aviation & Air Freight</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Maritime & Ports (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Maritime & Ports</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Shipping & Freight Forwarding</li>
-            <li>· Port Operations & Terminals</li>
+            <li>· Port Operations, Terminal Management</li>
             <li>· Coastal & Inland Waterways Logistics</li>
-            <li>· Marine Services</li>
+            <li>· Marine Services: Ship Agency, Marine Surveys, Towage</li>
+            <li>· Offshore Support Vessels</li>
           </ul>
         </div>
         </div>

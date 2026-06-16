@@ -33,30 +33,28 @@ export default function Home() {
             <li>· Security Operations: SOC, Incident Response, Threat Hunting</li>
             <li>· Identity & Access Management: IGA, PAM, SSO, MFA</li>
             <li>· Vulnerability Management: Assessments, Penetration Testing, Remediation</li>
+            <li>· OT/ICS Security: Industrial Control Systems Protection</li>
             <li>· Live site: https://cybitsolutions.net</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Cloud & Infrastructure</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Cloud Services: AWS, Azure, Google Cloud</li>
-            <li>· Infrastructure: Data Centers, Networking, Virtualization</li>
+            <li>· Cloud Services: AWS, Azure, Google Cloud Multi-Cloud Management</li>
+            <li>· Infrastructure: Data Centers, Colocation, Networking, Virtualization</li>
             <li>· Managed Services: Help Desk, NOC, Infrastructure Support</li>
+            <li>· Edge Computing & IoT Platform Services</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Software Engineering</h3>
+          <h3 className="font-display text-xl text-afano-navy">Software Engineering & Data</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Application Development: Web, Mobile, Enterprise</li>
-            <li>· DevSecOps: CI/CD, Automation, Containerization</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Data, AI & Automation</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Data Analytics: BI, Data Warehousing, Dashboards</li>
+            <li>· Application Development: Web, Mobile, Enterprise Platforms</li>
+            <li>· DevSecOps: CI/CD, Automation, Containerization, GitOps</li>
+            <li>· Data Analytics: BI, Data Warehousing, Lakehouse Architecture</li>
             <li>· Artificial Intelligence: Machine Learning, Generative AI, Predictive Analytics</li>
-            <li>· Automation: RPA, Workflow Automation</li>
+            <li>· Automation & RPA: Workflow Automation, Intelligent Process Automation</li>
+            <li>· Quantum Computing Research & Applied Quantum Algorithms</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
@@ -66,16 +64,18 @@ export default function Home() {
             <li>· Enterprise Transformation: ERP, CRM, Process Modernization</li>
             <li>· Website & Digital Experience: Design, Development, eCommerce, UI/UX, Portals</li>
             <li>· Digital Government: eCabinet, Digital Parliament, Citizen Portals, eVisa, eProcurement, Digital Tax</li>
+            <li>· Industry 4.0 Integration: Digital Twin, IIoT, Smart Manufacturing</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Telecommunications (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Telecommunications</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Mobile Network Operations</li>
+            <li>· Mobile Network Operations: 4G/5G MVNO & MNO</li>
             <li>· Fixed-Line & Broadband ISP</li>
-            <li>· Tower Infrastructure</li>
+            <li>· Tower Infrastructure Development & Management</li>
             <li>· Submarine & Terrestrial Fibre</li>
-            <li>· Satellite Communications</li>
+            <li>· Satellite Communications & VSAT</li>
+            <li>· Private 5G Networks for Enterprise & Industrial</li>
           </ul>
         </div>
         </div>

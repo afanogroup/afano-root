@@ -18,7 +18,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-24">
           <div className="text-xs tracking-[0.4em] uppercase opacity-80">AFANO SBG 5</div>
           <h1 className="font-display text-5xl md:text-6xl mt-4 max-w-3xl leading-[1.05]">AFANO Agriculture & Agribusiness Group</h1>
-          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Production, processing, agritech and environmental services.</p>
+          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Production, processing, agritech, food manufacturing and environmental services.</p>
         </div>
       </section>
 
@@ -29,31 +29,38 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Agriculture Production</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Crop Farming: Staple Crops, Cash Crops, Greenhouse</li>
-            <li>· Livestock: Poultry, Cattle, Dairy</li>
-            <li>· Aquaculture: Fish Farming, Aquatic Processing</li>
+            <li>· Crop Farming: Staple Crops, Cash Crops, Greenhouse & Controlled-Environment</li>
+            <li>· Livestock: Poultry, Cattle, Dairy & Feedlot Operations</li>
+            <li>· Aquaculture: Fish Farming, Shrimp, Aquatic Processing</li>
+            <li>· Precision Agriculture & AgriTech: Drone Spraying, IoT Sensors, GPS Farming</li>
+            <li>· Irrigation & Water Management: Drip Systems, Borehole Drilling, Dam Management</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Agribusiness</h3>
+          <h3 className="font-display text-xl text-afano-navy">Agribusiness & Commodity Trading</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Agricultural Consulting: Farm Management, Agritech Solutions</li>
-            <li>· Commodity Trading: Cocoa, Agricultural Exports</li>
+            <li>· Agricultural Consulting: Farm Management, Extension Services, Agritech Solutions</li>
+            <li>· Commodity Trading: Cocoa, Coffee, Sesame, Cashew, Soybeans, Agricultural Exports</li>
+            <li>· Warehouse Receipt Systems & Commodity Collateral Management</li>
+            <li>· Cold Chain Logistics for Agricultural Produce</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Food Processing</h3>
+          <h3 className="font-display text-xl text-afano-navy">Food Processing & Consumer Products</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Food Manufacturing: Beverages, Packaged Foods</li>
-            <li>· Storage Services: Cold Storage, Commodity Storage</li>
-            <li>· Consumer Products: Cocoa Products, Beverages, Mineral Drinks, Packaged Consumer Goods</li>
+            <li>· Food Manufacturing: Beverages, Packaged Foods, Dairy Processing</li>
+            <li>· Storage Services: Cold Storage, Silos, Commodity Storage</li>
+            <li>· Consumer Products: Cocoa Products, Beverages, Mineral Water, Packaged Goods</li>
+            <li>· Private Label & Co-Manufacturing Services</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Environmental & Recycling Solutions</h3>
+          <h3 className="font-display text-xl text-afano-navy">Environmental & Circular Economy</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Recycling: Plastic, Metal, Electronic Waste, Industrial Waste Processing</li>
-            <li>· Circular Economy Programs</li>
+            <li>· Circular Economy Programs: Upcycling, Waste-to-Energy</li>
+            <li>· Afforestation & Carbon Sequestration Projects</li>
+            <li>· Soil Remediation & Land Restoration</li>
           </ul>
         </div>
         </div>

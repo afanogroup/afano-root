@@ -30,8 +30,8 @@ export default function Home() {
           <h3 className="font-display text-xl text-afano-navy">AFANO / Cybit Academy</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Technology Training: Cybersecurity, Cloud Computing, AI & Data Analytics</li>
-            <li>· Professional Certifications: PMP, Security+, AWS, CISSP</li>
-            <li>· Fast-Track Programs: Bootcamps, Intensive Courses</li>
+            <li>· Professional Certifications: PMP, Security+, AWS, CISSP, CFA</li>
+            <li>· Fast-Track Programs: Bootcamps, Intensive Courses, Hackathons</li>
             <li>· Professional Development: Leadership, Project Management, Business Analysis, Executive Coaching</li>
             <li>· Live site: https://cybit360.com</li>
           </ul>
@@ -39,31 +39,30 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Higher Education</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Online Degrees: Undergraduate, Graduate</li>
-            <li>· Diplomas: Professional, Technical</li>
+            <li>· Online Degrees: Undergraduate, Graduate, MBA</li>
+            <li>· Diplomas: Professional, Technical, Vocational</li>
+            <li>· Research Partnerships & Academic Collaborations</li>
+            <li>· Study-Abroad & International Exchange Programs</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Workforce Development</h3>
+          <h3 className="font-display text-xl text-afano-navy">Talent, Workforce & Career Solutions</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Vocational Training: Trades, Technical Skills</li>
+            <li>· Vocational Training: Trades, Technical Skills, Apprenticeships</li>
             <li>· Leadership Development: Executive Programs, Management Training</li>
+            <li>· Recruiting: Permanent Placement, Contract Staffing, Executive Search</li>
+            <li>· Career Services: Resume Writing, Career Coaching, Interview Preparation</li>
+            <li>· Managed Workforce: Staff Augmentation, Workforce Outsourcing, RPO</li>
+            <li>· Labour Market Intelligence & Workforce Analytics</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Talent Solutions</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Recruiting: Permanent Placement, Contract Staffing</li>
-            <li>· Career Services: Resume Writing, Career Coaching</li>
-            <li>· Managed Workforce: Staff Augmentation, Workforce Outsourcing, RPO, Executive Search</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">K-12 & Early Education (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">K-12 & Early Education</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
             <li>· Primary & Secondary Schools</li>
-            <li>· STEM Enrichment Programs</li>
-            <li>· Edutech Curriculum Licensing</li>
+            <li>· STEM Enrichment & Robotics Programs</li>
+            <li>· Edutech Curriculum Licensing & LMS Platforms</li>
+            <li>· Early Childhood Development Centres</li>
           </ul>
         </div>
         </div>

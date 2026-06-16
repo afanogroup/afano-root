@@ -29,40 +29,46 @@ export default function Home() {
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Sports Academies</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Football Academy</li>
-            <li>· Basketball Academy</li>
-            <li>· Athletics Academy</li>
+            <li>· Football Academy: Grassroots, Elite, Scout Networks</li>
+            <li>· Basketball & Athletics Academies</li>
+            <li>· Swimming & Aquatic Sports Centers</li>
+            <li>· Multi-Sport Elite Performance Centres</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Recreation</h3>
+          <h3 className="font-display text-xl text-afano-navy">Recreation & Community Sports</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Recreation Centers</li>
-            <li>· Community Sports Programs</li>
+            <li>· Recreation Centers: Gyms, Courts, Tracks</li>
+            <li>· Community Sports Programs & School Partnerships</li>
+            <li>· Sports Tourism: Sports Camps, Training Retreats</li>
+            <li>· Sports Nutrition & Performance Science Clinics</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Youth Development</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Leadership Programs</li>
-            <li>· Mentorship Programs</li>
-            <li>· Youth Entrepreneurship: Startup Incubation, Business Training, Innovation Challenges, Youth Employment</li>
+            <li>· Leadership Programs: Youth Councils, Governance Training</li>
+            <li>· Mentorship Programs: Industry Connect, Alumni Networks</li>
+            <li>· Youth Entrepreneurship: Startup Incubation, Business Training</li>
+            <li>· Innovation Challenges & Youth Employment Programs</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Sports Management</h3>
+          <h3 className="font-display text-xl text-afano-navy">Sports Management & Technology</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Event Management</li>
-            <li>· Talent Management</li>
-            <li>· Facility Management</li>
+            <li>· Event Management: Tournaments, Leagues, International Events</li>
+            <li>· Talent Management: Athlete Representation, Sponsorship Deals</li>
+            <li>· Facility Management: Stadium Operations, Ground Maintenance</li>
+            <li>· Fan Engagement & Sports Tech: App Platforms, Ticketing, Analytics</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">eSports & Gaming (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">eSports & Gaming</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Pro Teams & Leagues</li>
-            <li>· Gaming Arenas</li>
-            <li>· Tournaments & Events</li>
+            <li>· Pro Teams & Competitive Leagues</li>
+            <li>· Gaming Arenas & LAN Centers</li>
+            <li>· Tournaments, Events & Broadcasting Rights</li>
+            <li>· Game Development & Gaming IP</li>
           </ul>
         </div>
         </div>

@@ -27,42 +27,49 @@ export default function Home() {
         <h2 className="font-display text-3xl text-afano-navy mt-3">Business Units</h2>
         <div className="mt-10 grid md:grid-cols-2 gap-6">
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Government Consulting</h3>
+          <h3 className="font-display text-xl text-afano-navy">Government Consulting & Advisory</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Public Sector Advisory</li>
-            <li>· Government Modernization</li>
-            <li>· Policy Implementation Support</li>
+            <li>· Public Sector Strategy & Transformation</li>
+            <li>· Government Modernisation: Digital Government, Public Finance Reform</li>
+            <li>· Policy Implementation Support & Regulatory Advisory</li>
+            <li>· Homeland Security Consulting: Border Management, Immigration Systems</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Defense Technology</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Cyber Defense</li>
-            <li>· Command & Control Systems</li>
-            <li>· ISR (Intelligence, Surveillance, Reconnaissance)</li>
+            <li>· Cyber Defense: Threat Intelligence, Military SIEM, Classified Networks</li>
+            <li>· Command, Control, Communications, Computers & Intelligence (C4I)</li>
+            <li>· ISR: Intelligence, Surveillance, Reconnaissance Systems</li>
+            <li>· Electronic Warfare & Signal Intelligence (SIGINT)</li>
+            <li>· Cybercrime Investigation & Digital Forensics</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
           <h3 className="font-display text-xl text-afano-navy">Security Services</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Physical Security: Armed Guards, Unarmed Guards, Event Security, Executive Protection, VIP Protection, Security Training</li>
+            <li>· Physical Security: Armed Guards, Unarmed Guards, Event Security</li>
+            <li>· Executive Protection, VIP & Diplomatic Security</li>
+            <li>· Security Training & Certification</li>
+            <li>· Cash-in-Transit & High-Value Asset Protection</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Public Safety</h3>
+          <h3 className="font-display text-xl text-afano-navy">Public Safety & Emergency Management</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Emergency Management</li>
+            <li>· Emergency Management Planning & Response</li>
             <li>· Critical Infrastructure Protection</li>
-            <li>· Disaster Response Coordination</li>
+            <li>· Disaster Response Coordination & Logistics</li>
+            <li>· Search & Rescue Operations Support</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Aerospace & Defense Manufacturing (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Aerospace & Defense Manufacturing</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· UAV / Drones</li>
-            <li>· Satellite Systems</li>
-            <li>· Defense Electronics</li>
-            <li>· Munitions & Land Systems (regulated)</li>
+            <li>· UAV / Drones: ISR, Cargo, Combat (regulated)</li>
+            <li>· Satellite Systems: LEO Constellations, Earth Observation</li>
+            <li>· Defense Electronics & Radar Systems</li>
+            <li>· Armoured Vehicles & Land Systems (regulated)</li>
           </ul>
         </div>
         </div>

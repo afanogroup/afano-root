@@ -18,7 +18,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-24">
           <div className="text-xs tracking-[0.4em] uppercase opacity-80">AFANO SBG 13</div>
           <h1 className="font-display text-5xl md:text-6xl mt-4 max-w-3xl leading-[1.05]">AFANO Professional & Business Services Group</h1>
-          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Management consulting, project management, organisational development, outsourcing and professional services.</p>
+          <p className="mt-6 max-w-2xl text-white/90 text-lg leading-relaxed">Management consulting, project management, outsourcing, legal, accounting and professional services.</p>
         </div>
       </section>
 
@@ -27,51 +27,43 @@ export default function Home() {
         <h2 className="font-display text-3xl text-afano-navy mt-3">Business Units</h2>
         <div className="mt-10 grid md:grid-cols-2 gap-6">
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Management Consulting</h3>
+          <h3 className="font-display text-xl text-afano-navy">Strategy, Consulting & PMO</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Strategy Consulting</li>
-            <li>· Business Transformation</li>
-            <li>· Governance, Risk & Compliance Advisory: Enterprise Risk Management, Internal Controls, Compliance Programs, Audit Readiness</li>
+            <li>· Strategy Consulting: Corporate Strategy, Market Entry, Competitive Intelligence</li>
+            <li>· Business Transformation & Change Management</li>
+            <li>· PMO Services: Program Management, Portfolio Management</li>
+            <li>· Governance, Risk & Compliance Advisory: ERM, Internal Controls, Audit Readiness</li>
+            <li>· Organisational Development & HR Consulting</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Project Management</h3>
+          <h3 className="font-display text-xl text-afano-navy">Business Outsourcing & BPO</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· PMO Services</li>
-            <li>· Program Management</li>
+            <li>· Administrative Services & Secretarial Support</li>
+            <li>· Back Office Operations: Finance, HR, Procurement</li>
+            <li>· Customer Contact Centres: Multilingual, Omnichannel</li>
+            <li>· Knowledge Process Outsourcing (KPO)</li>
+            <li>· Robotic Process Automation as a Service</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Organizational Development</h3>
+          <h3 className="font-display text-xl text-afano-navy">Legal Services</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· HR Consulting</li>
-            <li>· Change Management</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Business Outsourcing</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Administrative Services</li>
-            <li>· Back Office Operations</li>
-            <li>· Customer Contact Centers (NEW)</li>
-          </ul>
-        </div>
-        <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Legal Services (NEW)</h3>
-          <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Corporate Law</li>
-            <li>· Intellectual Property</li>
+            <li>· Corporate Law: M&A, Joint Ventures, Commercial Contracts</li>
+            <li>· Intellectual Property: Patents, Trademarks, Licensing</li>
             <li>· Regulatory & Compliance Counsel</li>
-            <li>· Cross-Border Transaction Counsel</li>
+            <li>· Cross-Border Transaction Counsel & Arbitration</li>
+            <li>· Employment & Labour Law</li>
           </ul>
         </div>
         <div className="border border-mist p-6 bg-white">
-          <h3 className="font-display text-xl text-afano-navy">Accounting, Tax & Audit (NEW)</h3>
+          <h3 className="font-display text-xl text-afano-navy">Accounting, Tax & Audit</h3>
           <ul className="mt-3 space-y-1 text-sm text-ink/75">
-            <li>· Tax Advisory</li>
-            <li>· External Audit</li>
-            <li>· Forensic Accounting</li>
-            <li>· Transfer Pricing</li>
+            <li>· Tax Advisory: International Tax, Transfer Pricing, VAT</li>
+            <li>· External Audit & Assurance</li>
+            <li>· Forensic Accounting & Anti-Fraud Investigation</li>
+            <li>· Financial Reporting: IFRS, US GAAP Conversion</li>
+            <li>· Internal Audit Co-sourcing & Outsourcing</li>
           </ul>
         </div>
         </div>
